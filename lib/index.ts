@@ -1,5 +1,6 @@
 import * as ieee754 from 'ieee754';
 import { IToken, IGetToken } from '@tokenizer/token';
+import { Buffer } from 'node:buffer';
 
 // Primitive types
 
